@@ -1,0 +1,8 @@
+{"0": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# **IGLUE**: **I**mage-**G**rounded **L**anguage **U**nderstanding and **E**valuation {: .fs-9 } **IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages** [Emanuele Bugliarello](https://e-bug.github.io), [Fangyu Liu](http://fangyuliu.me/about.html), [Jonas Pfeiffer](https://pfeiffer.ai/), [Siva Reddy](https://sivareddy.in), [Desmond Elliott](https://elliottd.github.io), [Edoardo Maria Ponti](https://ducdauge.github.io), [Ivan Vulić](https://sites.google.com/site/ivanvulic/). {: .fs-4 .fw-300 } [paper](https://arxiv.org/pdf/2201.11732){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [data](/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [code](https://github.com/e-bug/iglue){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } ```bibtex @article{Bugliarello2022IGLUE, title={IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages}, author={Emanuele Bugliarello and Fangyu Liu and Jonas Pfeiffer and Siva Reddy and Desmond Elliott and E. Ponti and Ivan Vulic}, journal={ArXiv}, year={2022}, volume={abs/2201.11732} } ``` --- Brought to you by researchers from: . ",
+    "url": "https://iglue-benchmark.github.io/",
+    "relUrl": "/"
+  }
+}
